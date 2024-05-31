@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "php": "^8.2",
+        "php": "^8.0",
         "illuminate/support": ">=5.8",
         "anakadote/laravel-5-image-manager": "dev-master"
 
